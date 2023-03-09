@@ -1,2 +1,2 @@
 # Python
-Tkinter school project hangman
+Hangman made with TKinter
