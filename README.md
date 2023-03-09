@@ -1,2 +1,2 @@
 # Python
-Small hangman project I made
+Tkinter school project hangman
